@@ -10,7 +10,7 @@ See https://github.com/aureooms/eduroam.
 Ask Stefan for password.
 
 ## Printers
-/!\ Only works with wired (ethernet) connection.
+:bangbang: Only works with wired (ethernet) connection.
 Install cups client. For example
 
     pacman -S cups
