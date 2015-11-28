@@ -14,6 +14,10 @@ Ask Stefan for password.
 Install cups client. For example
 
     pacman -S cups
+    
+Enable the cups-browsed service if you do not want to start it manually every time
+
+    systemctl enable cups-browsed.service
 
 Add a ServerName entry pointing to `lit-printserver.ulb.ac.be:631` to /etc/cups/client.conf. For example
 
