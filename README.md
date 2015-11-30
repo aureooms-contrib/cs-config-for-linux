@@ -11,6 +11,9 @@ Ask Stefan for password.
 
 ## Printers
 :bangbang: Only works with wired (ethernet) connection.
+
+:bangbang: Make sure to set the paper size to A4 when printing. US letter will not work.
+
 Install cups client. For example
 
     pacman -S cups
@@ -29,4 +32,4 @@ Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/d
 
     svn export https://github.com/aureooms/dotfiles/trunk/opt/papercut
     
-:bangbang: Make sure to set the paper size to A4 when printing. US letter will not work.
+
