@@ -21,6 +21,10 @@ Install cups client. For example
 Enable the cups-browsed service if you do not want to start it manually every time
 
     systemctl enable cups-browsed.service
+    
+And start it immediately if you want to print before the next reboot
+
+    systemctl start cups-browsed.service
 
 Add a ServerName entry pointing to `lit-printserver.ulb.ac.be:631` to /etc/cups/client.conf. For example
 
