@@ -34,6 +34,6 @@ Add a ServerName entry pointing to `lit-printserver.ulb.ac.be:631` to /etc/cups/
     
 Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/dokuwiki/doku.php?id=ppcfsc). Basically download [this directory](https://github.com/aureooms/dotfiles/tree/master/opt/papercut) and run the shell script that is inside as a daemon. An easy way to download the directory
 
-    svn export https://github.com/aureooms/dotfiles/trunk/opt/papercut
+    svn export https://github.com/aureooms/dotfiles/trunk/.opt/papercut
     
 
