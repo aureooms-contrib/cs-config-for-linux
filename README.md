@@ -36,4 +36,10 @@ Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/d
 
     svn export https://github.com/aureooms/dotfiles/trunk/.opt/papercut
     
+## Allowed ports
 
+    22/tcp   ssh
+    873/tcp  rsync
+    3389/tcp ms-wbt-server
+    5800/tcp vnc-http
+    5900/tcp vnc
