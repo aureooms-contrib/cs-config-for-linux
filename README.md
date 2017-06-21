@@ -10,6 +10,12 @@ See https://github.com/aureooms/eduroam.
 Ask Stefan for password.
 
 ## Printers
+
+**When you arrive at ULB, you will receive a temporary account which can be used for printing. This account really is temporary and will stop working after you get your (definitive) account.**
+
+**If you cannot login to the print server, the first thing to do is to do the procedure of *changing* your password.
+Go to https://idsapp.ulb.ac.be/pam, login and then go to https://idsapp.ulb.ac.be/pam/pammodpw.php. You should tick all the checkboxes (NetID, hydra, etc.). You do not really have to change your password, you can fill the input fields with your already existing password. Once this is done, wait for 30 minutes then try to login to the [print server](https://fscd-printserver.ulb.ac.be:9192/user) again. If it still does not work, email the [SIS (Science Information Technology Support)](mailto:sis@ulb.ac.be).**
+
 :bangbang: Only works with wired (ethernet) connection.
 
 :bangbang: Make sure to set the paper size to A4 when printing. US letter will not work.
