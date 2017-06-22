@@ -9,6 +9,14 @@ See https://github.com/aureooms/eduroam.
 ### Waffle
 Ask Stefan for password.
 
+## Ethernet
+
+Ethernet is authenticated using your NetID and password. You can login by going to [https://webauth.ulb.ac.be](https://webauth.ulb.ac.be) when plugged into the network. You can install [this script that automatically connects you to the network](https://github.com/aureooms-ulb/ulb). For example
+
+    ulb auth once
+    
+You should add the line `options single-request` at the top of `/etc/resolv.conf.head` et `/etc/resolv.conf` otherwise lots of request will timeout.
+
 ## Printers
 
 **When you arrive at ULB, you will receive a temporary account which can be used for printing. This account really is temporary and will stop working after you get your (definitive) account.**
