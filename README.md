@@ -56,6 +56,8 @@ The printers network names are DI-COPIER and DI-COLOR. Only use DI-COLOR when yo
     
 ## Allowed ports
 
+    nmap -Pn $yourpublicip
+    ...
     22/tcp   ssh
     873/tcp  rsync
     3389/tcp ms-wbt-server
