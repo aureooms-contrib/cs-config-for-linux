@@ -1,4 +1,4 @@
-# config
+# Configuration
 Configuration instructions for Linux @ ULB
 
 ## Wifi
