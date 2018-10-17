@@ -28,7 +28,7 @@ Install cups client. For example
 
     pacman -S cups
 
-Add a ServerName entry pointing to the local cups server to /etc/cups/client.conf. For example
+Add a ServerName entry pointing to the local cups server to `/etc/cups/client.conf`. For example
 
     # see 'man client.conf'
     # ServerName /run/cups/cups.sock #  alternative: ServerName hostname-or-ip-address[:port] of a remote server
@@ -45,6 +45,8 @@ And start it immediately if you want to print before the next reboot
 Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/dokuwiki/doku.php?id=ppcfsc). Basically download [this directory](https://github.com/aureooms/dotfiles/tree/master/opt/papercut) and run the shell script that is inside as a daemon. An easy way to download the directory
 
     svn export https://github.com/aureooms/dotfiles/trunk/.opt/papercut
+    
+> :warning: `papercut` requires `java`. Java version 1.8 is recommended.
     
 The printers network names are DI-COPIER and DI-COLOR. Only use DI-COLOR when you want to print colors, use DI-COPIER otherwise. DI-COPIER is also a scanner and a copier. The copying function requires a password which you can get from the secretaries. Here is [a reference sheet for the copier](https://ipfs.io/ipfs/QmNVBjifKRUR5AG3b5oDNgtnDe4uFLJ27Xo9PhkB7dU1bR).
 
