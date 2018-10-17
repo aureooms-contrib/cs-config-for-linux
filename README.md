@@ -61,7 +61,7 @@ DI-COPIER is also a scanner and a copier. The copying function requires a passwo
 
   - Printing only works with wired (ethernet) connection.
   - Make sure to set the paper size to A4 when printing. US letter will not work.
-  - When you arrive at ULB, you will receive a temporary account which can be used for printing. This account really is temporary and will stop working after you get your (definitive) account. Accounts user name ends with a digit are temporary.
+  - When you arrive at ULB, you will receive a temporary account which can be used for printing. This account really is temporary and will stop working after you get your (definitive) account. Accounts user name ending with a digit are temporary.
     
 ## Allowed ports
 
