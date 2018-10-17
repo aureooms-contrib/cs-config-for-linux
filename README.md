@@ -48,7 +48,14 @@ Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/d
     
 > :warning: `papercut` requires `java`. Java version 1.8 is recommended.
     
-The printers network names are DI-COPIER and DI-COLOR. Only use DI-COLOR when you want to print colors, use DI-COPIER otherwise. DI-COPIER is also a scanner and a copier. The copying function requires a password which you can get from the secretaries. Here is [a reference sheet for the copier](https://ipfs.io/ipfs/QmNVBjifKRUR5AG3b5oDNgtnDe4uFLJ27Xo9PhkB7dU1bR).
+The printers network names are DI-COPIER and DI-COLOR:
+
+  - use **DI-COLOR** only when you want to print colors,
+  - use **DI-COPIER** otherwise.
+  
+> :warning: It can happen that those are listed multiple times because other users on the network decided to share those printers. In that case, look for names ending with `lit-printserver`.
+  
+DI-COPIER is also a scanner and a copier. The copying function requires a password which you can get from the secretaries. Here is [a reference sheet for the copier](https://ipfs.io/ipfs/QmNVBjifKRUR5AG3b5oDNgtnDe4uFLJ27Xo9PhkB7dU1bR).
 
 ### Troubleshooting
 
