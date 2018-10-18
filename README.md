@@ -1,18 +1,18 @@
 # Configuration
 Configuration instructions for Linux @ ULB
 
-## Wireless (wifi)
+## Wireless connection (wifi)
 
 ### Eduroam
 See https://github.com/aureooms/eduroam.
 
 ### Waffle
-Ask Stefan for password.
+Ask Stefan for password. Needs authentication, see instructions for wired connections.
 
 ### \_TRUMP
 Ask Aurélien for password.
 
-## Wired (ethernet)
+## Wired connection (ethernet)
 
 Ethernet is authenticated using your NetID and password. You can login by going to [https://webauth.ulb.ac.be](https://webauth.ulb.ac.be) when plugged into the network. You can install [this script that automatically connects you to the network](https://github.com/aureooms-ulb/ulb). For example
 
