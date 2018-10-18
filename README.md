@@ -9,6 +9,9 @@ See https://github.com/aureooms/eduroam.
 ### Waffle
 Ask Stefan for password.
 
+### \_TRUMP
+Ask Aurélien for password.
+
 ## Wired (Ethernet)
 
 Ethernet is authenticated using your NetID and password. You can login by going to [https://webauth.ulb.ac.be](https://webauth.ulb.ac.be) when plugged into the network. You can install [this script that automatically connects you to the network](https://github.com/aureooms-ulb/ulb). For example
