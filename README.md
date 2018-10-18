@@ -22,7 +22,7 @@ Ethernet is authenticated using your NetID and password. You can login by going 
 
 ## Printers
 
-> :warning: Printing only works with wired (ethernet) connection or `Waffle` or `_TRUMP` wifi but not with `eduroam` or `Plaine-Wifi`.
+> :warning: Printing only works with wired connection (ethernet) or `Waffle` or `_TRUMP` wifi but not with `eduroam` or `Plaine-Wifi`.
 
 You need an account to use the printers. Ask the secretaries for an account if you do not have one. Try to login with your credentials on the [print server](https://fscd-printserver.ulb.ac.be:9192/user).
 
@@ -64,7 +64,7 @@ The printers network names are `DI-COPIER` and `DI-COLOR`:
 
 ### Troubleshooting
 
-  - Again, printing only works with wired (ethernet) connection or `Waffle` or `_TRUMP` wifi but not with `eduroam` or `Plaine-Wifi`.
+  - Again, printing only works with wired connection (ethernet) or `Waffle` or `_TRUMP` wifi but not with `eduroam` or `Plaine-Wifi`.
   - Make sure to set the paper size to A4 when printing. US letter will not work.
   - When you arrive at ULB, you will receive a temporary account which __can__ be used for printing. This account really is temporary and will stop working after you get your (definitive) account. Accounts user name ending with a digit are temporary.
     
