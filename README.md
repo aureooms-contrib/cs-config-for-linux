@@ -22,6 +22,8 @@ Ethernet is authenticated using your NetID and password. You can login by going 
 
 ## Printers
 
+> :warning: Printing only works with wired (ethernet) connection or `Waffle` or `_TRUMP` wifi but not with `eduroam` or `Plaine-Wifi`.
+
 You need an account to use the printers. Ask the secretaries for an account if you do not have one. Try to login with your credentials on the [print server](https://fscd-printserver.ulb.ac.be:9192/user).
 
 **If you cannot login to the print server, the first thing to do is to do the procedure of *changing* your password.
@@ -51,20 +53,20 @@ Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/d
     
 > :warning: `papercut` requires `java`. Java version 1.8 is recommended.
     
-The printers network names are DI-COPIER and DI-COLOR:
+The printers network names are `DI-COPIER` and `DI-COLOR`:
 
-  - use **DI-COLOR** only when you want to print colors,
-  - use **DI-COPIER** otherwise.
+  - use `DI-COLOR` only when you want to print colors,
+  - use `DI-COPIER` otherwise.
   
 > :warning: It can happen that those are listed multiple times because other users on the network decided to share those printers. In that case, look for names ending with `lit-printserver`.
   
-DI-COPIER is also a scanner and a copier. The copying function requires a password which you can get from the secretaries. Here is [a reference sheet for the copier](https://ipfs.io/ipfs/QmNVBjifKRUR5AG3b5oDNgtnDe4uFLJ27Xo9PhkB7dU1bR).
+`DI-COPIER` is also a scanner and a copier. The copying function requires a password which you can get from the secretaries. Here is [a reference sheet for the copier](https://ipfs.io/ipfs/QmNVBjifKRUR5AG3b5oDNgtnDe4uFLJ27Xo9PhkB7dU1bR).
 
 ### Troubleshooting
 
-  - Printing only works with wired (ethernet) connection.
+  - Again, printing only works with wired (ethernet) connection or `Waffle` or `_TRUMP` wifi but not with `eduroam` or `Plaine-Wifi`.
   - Make sure to set the paper size to A4 when printing. US letter will not work.
-  - When you arrive at ULB, you will receive a temporary account which can be used for printing. This account really is temporary and will stop working after you get your (definitive) account. Accounts user name ending with a digit are temporary.
+  - When you arrive at ULB, you will receive a temporary account which __can__ be used for printing. This account really is temporary and will stop working after you get your (definitive) account. Accounts user name ending with a digit are temporary.
     
 ## Allowed ports
 
