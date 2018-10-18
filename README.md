@@ -15,7 +15,7 @@ Ethernet is authenticated using your NetID and password. You can login by going 
 
     ulb auth once
     
-You should add the line `options single-request` at the top of `/etc/resolv.conf.head` et `/etc/resolv.conf` otherwise lots of request will timeout.
+> :warning: You should add the line `options single-request` at the top of `/etc/resolv.conf.head` and `/etc/resolv.conf` otherwise lots of request will timeout. The root cause is most likely due to bad network nodes configuration.
 
 ## Printers
 
