@@ -1,15 +1,14 @@
 # Configuration
 Configuration instructions for Linux @ ULB
 
-- [Configuration](#configuration)
-  * [Wireless connection (wifi)](#wireless-connection-wifi)
-    + [Eduroam](#eduroam)
-    + [Waffle](#waffle)
-    + [\_TRUMP](#_trump)
-  * [Wired connection (ethernet)](#wired-connection-ethernet)
-  * [Printers](#printers)
-    + [Troubleshooting](#troubleshooting)
-  * [Allowed ports](#allowed-ports)
+- [Wireless connection (wifi)](#wireless-connection-wifi)
+  * [Eduroam](#eduroam)
+  * [Waffle](#waffle)
+  * [\_TRUMP](#_trump)
+- [Wired connection (ethernet)](#wired-connection-ethernet)
+- [Printers](#printers)
+  * [Troubleshooting](#troubleshooting)
+- [Allowed ports](#allowed-ports)
 
 ## Wireless connection (wifi)
 
