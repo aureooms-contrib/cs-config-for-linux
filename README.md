@@ -7,7 +7,7 @@ Configuration instructions for Linux @ ULB
 See https://github.com/aureooms/eduroam.
 
 ### Waffle
-Ask Stefan for password. Needs authentication, see instructions for wired connections.
+Ask Stefan for password. Needs authentication, see [instructions for wired connections](https://github.com/ulb/cs-config-for-linux/blob/master/README.md#wired-connection-ethernet).
 
 ### \_TRUMP
 Ask Aurélien for password.
