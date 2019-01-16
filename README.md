@@ -56,9 +56,9 @@ And start it immediately if you want to print before the next reboot
 
     systemctl start cups-browsed.service
 
-Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/dokuwiki/doku.php?id=ppcfsc). __TL;DR__: download [this directory](https://github.com/aureooms/dotfiles/tree/master/opt/papercut) and run the shell script that is inside as a daemon. An easy way to download the directory
+Follow (French) instructions at the bottom of [this page](http://sis.ulb.ac.be/dokuwiki/doku.php?id=ppcfsc). __TL;DR__: download [this directory](https://github.com/ulb/papercut-linux/tree/master) and run the shell script that is inside as a daemon. An easy way to download the directory
 
-    svn export https://github.com/aureooms/dotfiles/trunk/.opt/papercut
+    svn export https://github.com/ulb/papercut-linux/trunk
     
 > :warning: `papercut` requires `java`. Java version 1.8 is recommended.
     
